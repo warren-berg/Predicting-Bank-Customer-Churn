@@ -1,1 +1,1 @@
-# warren-berg
+For my Python Analytics class, my group created a project to predict bank churn. We sourced a data set from Kaggle, and used Machine Learning models including K-Nearest Neighbor, Logistic Regression, Linear SVC, Decision Tree Classifier, and Random Forest Classifier to predict which customers would leave the bank. I've included our presentation slides, in which we summarized our results, explaining the problem, our analysis, and how it could provide solutions reduce churn among its customers.
